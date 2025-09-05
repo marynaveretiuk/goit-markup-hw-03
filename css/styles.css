@@ -56,7 +56,7 @@ border-bottom: 1px solid #e7e9fc;
 .nav-list {
     display: flex;
    align-items: center;
-   gap: 40px;;
+   gap: 40px;
 }
  .header-logo {
      font-family: "Raleway", sans-serif;
@@ -121,6 +121,7 @@ border-bottom: 1px solid #e7e9fc;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+margin-bottom: 8px;
 }
 
 .features-list {
@@ -170,7 +171,7 @@ text-align: center;
     overflow: hidden;
  }
 
- .img {
+ img {
      display: block;
       }
  .team-info {
